@@ -1,0 +1,13 @@
+C:\Users\Aieos_\Documents\code\TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.exe
+C:\Users\Aieos_\Documents\code\TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.deps.json
+C:\Users\Aieos_\Documents\code\TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.json
+C:\Users\Aieos_\Documents\code\TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.dev.json
+C:\Users\Aieos_\Documents\code\TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.dll
+C:\Users\Aieos_\Documents\code\TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.pdb
+C:\Users\Aieos_\Documents\code\TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aieos_\Documents\code\TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfoInputs.cache
+C:\Users\Aieos_\Documents\code\TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfo.cs
+C:\Users\Aieos_\Documents\code\TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Aieos_\Documents\code\TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.dll
+C:\Users\Aieos_\Documents\code\TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.pdb
+C:\Users\Aieos_\Documents\code\TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.genruntimeconfig.cache
